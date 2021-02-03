@@ -8,6 +8,7 @@ API RESTful with node.
 5.  Create collection mongodb;
 6.  Create endpoints;
 7.	Unitary tests;
+8.  Dockerize;
 
 
 ## Configuração para Desenvolvimento
