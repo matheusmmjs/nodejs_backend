@@ -9,6 +9,7 @@ API RESTful with node.
 6.  Create endpoints;
 7.	Unitary tests;
 8.  Dockerize;
+9.  Axios;
 
 
 ## Configuração para Desenvolvimento

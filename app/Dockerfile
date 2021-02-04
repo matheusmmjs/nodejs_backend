@@ -12,3 +12,6 @@ RUN wget https://github.com/jwilder/dockerize/releases/download/$DOCKERIZE_VERSI
 
 RUN yarn add express uuidv4 axios \
     && yarn add @types/express ts-node-dev typescript -D
+
+RUN yarn add mongoose \
+    && yarn add @types/mongoose -D
